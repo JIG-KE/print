@@ -1,0 +1,11 @@
+/* C */
+
+
+
+#heroine
+{
+	aspect-ratio: 2/1;
+	background: url(./heroin.png);
+	background-size: cover;
+	background-position: center;
+}
